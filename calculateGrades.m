@@ -1,8 +1,3 @@
-% Name: Olawale Olabode
-% Matric no: 239047017
-% Programme: Master of Engineering Systems Management
-
-% 8. Manipulating variables
 load('classGrades.mat'); % Load Class grades from a file
 disp(namesAndGrades(1:5, :)); % Display the first five rows from the classgrades table
 grades = namesAndGrades(:, 2:end); % Remove first columnc, display value from row 2 to 8
