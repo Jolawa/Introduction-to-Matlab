@@ -1,7 +1,3 @@
-% Name: Olawale Olabode
-%Matric No: 239047017
-%Programme: Master of Engineering Systems Management
-
 %1. Scalar variables
 a = 10;
 b = 2.5*10^23;
